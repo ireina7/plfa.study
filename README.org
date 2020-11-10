@@ -1,2 +1,6 @@
-# plfa.study
-Study notes and solutions of PLFA
+#+Title:  plfa.study
+#+Author: Ireina
+
+My study notes and solutions of PLFA
+
+- reference: [[https://plfa.github.io/][Programming Language Foundations in Agda]]
