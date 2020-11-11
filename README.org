@@ -3,4 +3,6 @@
 
 My study notes and solutions of PLFA
 
-- reference: [[https://plfa.github.io/][Programming Language Foundations in Agda]]
+- reference:
+  + [[https://plfa.github.io/][Programming Language Foundations in Agda]]
+  + [[https://github.com/plfa/plfa.github.io][Github/PLFA]]
